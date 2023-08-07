@@ -1,0 +1,74 @@
+/*INIZIO classi/ id creati */
+.container{
+    width: 1200px;
+    margin: auto;
+    text-align: center;
+}
+.blur{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 1200px;
+    height: 850px;
+    margin-top: 35px;
+    border-radius: 25px;
+}
+.logo{
+    width: 200px;
+    margin-top: 100px;
+
+}
+.nav_bar{
+    width: 900px;
+    height: 20px;
+    background-color: lime;
+    margin: auto;
+    padding-left: 10px;
+    padding: 10px;
+}
+.vehicle_text{
+  font-size: larger;
+}
+#orange_bar{
+  background-color: orange;
+  width: 350px;
+  height: 25px;
+  border-radius: 3px;
+}
+#green_bar{
+  background-color: limegreen;
+  width: 600px;
+  height: 25px;
+  border-radius: 3px;
+}
+#red_bar{
+  background-color: red;
+  width: 150px;
+  height: 25px;
+  border-radius: 3px;
+}
+/* FINE classi creati  */
+
+  /* ************************************************************************ */
+
+/*  INZIO TAG  */
+body{
+  background-image: url(img/background.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+main{
+  text-align: left;
+  margin-left: 135px;
+}
+h1{
+  color: lime;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+hr{
+    display: none;
+}
+li{
+    list-style-type: none;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: white;
+  }
+  /* FINE TAG */
